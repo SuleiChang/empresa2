@@ -1,4 +1,4 @@
-# Laboratorio Empresa - Vista de datos de la BD
+# Laboratorio Empresa - Formulario con validaciones
 
 ## Description
 
@@ -25,17 +25,11 @@ $ npm run start:prod
 
 ## Desarrollo
 
-Configuración del .env
+Formulario validado
 
-![env](/assets/imageenv.png)
+![image](https://github.com/SuleiChang/empresa2/assets/170781882/98da0339-9367-4a0f-855f-b248ec897c10)
 
-Creación de la tabla con el ORM Prisma
+Vistas de los datos de la BD con la nueva funcionalidad
 
-![Uso del Orm para la BD](/assets/image.png)
-
-Vistas de los datos de la BD
-
-![image](https://github.com/SuleiChang/migracion-vistas/assets/170781882/56bcb499-e494-47ab-b111-190a7f815073)
-![image](https://github.com/SuleiChang/migracion-vistas/assets/170781882/2be30a37-9734-47af-a51e-78736a111f63)
-![image](https://github.com/SuleiChang/migracion-vistas/assets/170781882/4f03275e-6e3d-4569-9ef9-d6fd80af4c3a)
+![image](https://github.com/SuleiChang/formulario/assets/170781882/6ac105ee-4c6e-49b7-9f10-ca9d3b835653)
 
