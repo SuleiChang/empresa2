@@ -2,7 +2,7 @@
 
 ## Description
 
-Este laboratorio es el ejercicio desarrollado para realizar migraciones.
+En este laboratorio se valido los datos de entrada en los inputs del formulario y posterior mostrar cuales son los errores en los inputs.
 
 ## Installation
 
